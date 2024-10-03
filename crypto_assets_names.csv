@@ -1,0 +1,202 @@
+name,ticker
+1inch,1INCH
+Aave,AAVE
+Cardano,ADA
+Aerodrome Finance,AERO
+Aevo,AEVO
+SingularityNET,AGIX
+AIOZ Network,AIOZ
+Akash Network,AKT
+Algorand,ALGO
+Amp,AMP
+ApeCoin,APE
+Aptos,APT
+Arweave,AR
+Arbitrum,ARB
+Arkham,ARKM
+Astar,ASTR
+Cosmos Hub,ATOM
+Avalanche,AVAX
+Axelar,AXL
+Axie Infinity,AXS
+Bitcoin Cash,BCH
+Beldex,BDX
+Beam,BEAM
+Bitget Token,BGB
+Blur,BLUR
+BNB,BNB
+BOOK OF MEME,BOME
+Bonk,BONK
+Brett,BRETT
+Bitcoin SV,BSV
+Bitcoin,BTC
+Bitcoin Avalanche Bridged (BTC.b),BTC.B
+Bitcoin Gold,BTG
+BitTorrent,BTT
+Binance-Peg BUSD,BUSD
+PancakeSwap,CAKE
+Coinbase Wrapped Staked ETH,CBETH
+Conflux,CFX
+Chiliz,CHZ
+Nervos Network,CKB
+Compound,COMP
+Core,CORE
+Cronos,CRO
+Dai,DAI
+Curve DAO,CRV
+DeXe,DEXE
+Dogecoin,DOGE
+Dogs,DOGS
+Polkadot,DOT
+dYdX,DYDX
+Dymension,DYM
+ether.fi Staked ETH,EETH
+MultiversX,EGLD
+Ethena,ENA
+Ethereum Name Service,ENS
+EOS,EOS
+Ethereum Classic,ETC
+Ethereum,ETH
+Renzo Restaked ETH,EZETH
+Rocket Pool ETH,RETH
+First Digital USD,FDUSD
+Artificial Superintelligence Alliance,FET
+Filecoin,FIL
+FLOKI,FLOKI
+Flow,FLOW
+Flare,FLR
+Frax,FRAX
+Frax Ether,FRXETH
+Fantom,FTM
+Fasttoken,FTN
+GALA,GALA
+GMT,GMT
+Gnosis,GNO
+Tether Gold,XAUT
+The Graph,GRT
+Gate,GT
+Hedera,HBAR
+Helium,HNT
+Internet Computer,ICP
+Immutable,IMX
+Injective,INJ
+IOTA,IOTA
+IoTeX,IOTX
+JasmyCoin,JASMY
+Jupiter,JUP
+Jupiter Staked SOL,JUPSOL
+Kaspa,KAS
+Kava,KAVA
+KuCoin,KCS
+Klaytn,KLAY
+Kusama,KSM
+Lombard Staked BTC,LBTC
+Lido DAO,LDO
+LEO Token,LEO
+Chainlink,LINK
+Livepeer,LPT
+Litecoin,LTC
+Terra Luna Classic,LUNC
+Decentraland,MANA
+Polygon,MATIC
+Mantle Staked Ether,METH
+cat in a dogs world,MEW
+Mina Protocol,MINA
+Maker,MKR
+Mantle,MNT
+Mog Coin,MOG
+Metaplex,MPLX
+MX,MX
+NEAR Protocol,NEAR
+Neiro,NEIRO
+NEO,NEO
+NEXO,NEXO
+APENFT,NFT
+Notcoin,NOT
+OKB,OKB
+MANTRA,OM
+Ondo,ONDO
+Optimism,OP
+ORDI,ORDI
+Osmosis,OSMO
+PAX Gold,PAXG
+Pendle,PENDLE
+ConstitutionDAO,PEOPLE
+Pepe,PEPE
+PepeCoin,PEPECOIN
+POL (ex-MATIC),POL
+Popcat,POPCAT
+Echelon Prime,PRIME
+Pyth Network,PYTH
+PayPal USD,PYUSD
+Quant,QNT
+Raydium,RAY
+Render,RENDER
+Ronin,RON
+Oasis Network,ROSE
+Kelp DAO Restaked ETH,RSETH
+Reserve Rights,RSR
+THORChain,RUNE
+Safe,SAFE
+The Sandbox,SAND
+SATS (Ordinals),SATS
+Sei,SEI
+SafePal,SFP
+Staked Frax Ether,SFRXETH
+Shiba Inu,SHIB
+Synthetix Network,SNX
+Marinade Staked SOL,MSOL
+Solana,SOL
+Solv Protocol SolvBTC,SOLVBTC
+Lido Staked Ether,STETH
+Starknet,STRK
+Stacks,STX
+Sui,SUI
+Sundog,SUNDOG
+SuperVerse,SUPER
+Swell Ethereum,SWETH
+Bittensor,TAO
+Theta Fuel,TFUEL
+Theta Network,THETA
+Celestia,TIA
+Tokenize Xchange,TKX
+Toncoin,TON
+TRON,TRX
+Turbo,TURBO
+TrueUSD,TUSD
+Trust Wallet,TWT
+Uniswap,UNI
+USDB,USDB
+USDC,USDC
+Bridged USDC (Polygon PoS Bridge),USDC.E
+USDD,USDD
+Ethena USDe,USDE
+Tether,USDT
+Ondo US Dollar Yield,USDY
+VeChain,VET
+Wormhole,W
+WhiteBIT Coin,WBT
+Arbitrum Bridged WBTC (Arbitrum One),WBTC
+Wrapped Bitcoin,WBTC
+Wrapped eETH,WEETH
+WEMIX,WEMIX
+Arbitrum Bridged WETH (Arbitrum One),WETH
+Binance-Peg WETH,WETH
+L2 Standard Bridged WETH (Base),WETH
+L2 Standard Bridged WETH (Blast),WETH
+Polygon PoS Bridged WETH (Polygon POS),WETH
+WETH,WETH
+dogwifhat,WIF
+Worldcoin,WLD
+WOO,WOO
+Wrapped stETH,WSTETH
+XDC Network,XDC
+eCash,XEC
+Stellar,XLM
+Monero,XMR
+XRP,XRP
+Tezos,XTZ
+Zcash,ZEC
+ZKsync,ZK
+LayerZero,ZRO
+

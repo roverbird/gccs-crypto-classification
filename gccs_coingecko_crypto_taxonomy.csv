@@ -1,0 +1,101 @@
+CoinGecko100,Ticker,Crypto Stack,Sector,Industry,Taxonomy
+Ethereum,ETH,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+BNB,BNB,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Cardano,ADA,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Solana,SOL,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+TRON,TRX,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Toncoin,TON,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Avalanche,AVAX,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Ethereum Classic,ETC,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Hedera,HBAR,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Internet Computer,ICP,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Cronos,CRO,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Aptos,APT,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+VeChain,VET,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+NEAR Protocol,NEAR,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Kaspa,KAS,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+XDC Network,XDC,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Algorand,ALGO,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Tezos,XTZ,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+EOS,EOS,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+MultiversX,EGLD,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Radix,XRD,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Injective,INJ,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Fantom,FTM,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+NEO,NEO,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Kava,KAVA,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+IOTA,MIOTA,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Casper Network,CSPR,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Mina Protocol,MINA,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Sui,SUI,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Terra Luna Classic,LUNC,SmartContractPlatform,Infrastructure,SmartContractPlatform,NativeCurrency
+Polygon,MATIC,ScalingPlatform,Infrastructure,ScalingPlatform,NativeCurrency
+Mantle,MNT,ScalingPlatform,Infrastructure,ScalingPlatform,NativeCurrency
+Arbitrum,ARB,ScalingPlatform,Infrastructure,ScalingPlatform,NativeCurrency
+Optimism,OP,ScalingPlatform,Infrastructure,ScalingPlatform,NativeCurrency
+Stacks,STX,ScalingPlatform,Infrastructure,ScalingPlatform,NativeCurrency
+Dogecoin,DOGE,PaymentPlatform,MediaEntertainment,Gambling,MemeCoin
+Bitcoin,BTC,PaymentPlatform,Infrastructure,PaymentPlatform,Cryptocurrency
+XRP,XRP,PaymentPlatform,Infrastructure,PaymentPlatform,Cryptocurrency
+Litecoin,LTC,PaymentPlatform,Infrastructure,PaymentPlatform,Cryptocurrency
+Bitcoin Cash,BCH,PaymentPlatform,Infrastructure,PaymentPlatform,Cryptocurrency
+Stellar,XLM,PaymentPlatform,Infrastructure,PaymentPlatform,Cryptocurrency
+Monero,XMR,PaymentPlatform,Infrastructure,PrivacyPreserving,Cryptocurrency
+Bitcoin SV,BSV,PaymentPlatform,Infrastructure,PaymentPlatform,Cryptocurrency
+eCash,XEC,PaymentPlatform,Infrastructure,PaymentPlatform,Cryptocurrency
+Chainlink,LINK,Oracle,ITServices,BigData,UtilityToken
+The Graph,GRT,dApp,ITServices,DataAnalytics,UtilityToken
+The Sandbox,SAND,dApp,Metaverse,VrandAR,UtilityToken
+Render,RNDR,dApp,MediaEntertainment,ContentCreation,UtilityToken
+Decentraland,MANA,dApp,Metaverse,VrandAR,UtilityToken
+GALA,GALA,dApp,MediaEntertainment,ContentCreation,UtilityToken
+BitTorrent,BTT,dApp,ITServices,BigData,UtilityToken
+Dai,DAI,dApp,DeFi,Lending,Stablecoin
+USDD,USDD,dApp,DeFi,Lending,Stablecoin
+Frax,FRAX,dApp,DeFi,Seigniorage,Stablecoin
+Shiba Inu,SHIB,dApp,MediaEntertainment,Gambling,MemeCoin
+Uniswap,UNI,dApp,DeFi,DEX,GovernanceToken
+Quant,QNT,dApp,ITServices,DeveloperTooling,GovernanceToken
+Lido DAO,LDO,dApp,DeFi,LiquidStaking,GovernanceToken
+Maker,MKR,dApp,DeFi,Lending,GovernanceToken
+Aave,AAVE,dApp,DeFi,Lending,GovernanceToken
+Synthethix Network,SNX,dApp,DeFi,Derivative,GovernanceToken
+Axie Infinity,AXS,dApp,Metaverse,Gaming,GovernanceToken
+ApeCoin,APE,dApp,Metaverse,NFT,GovernanceToken
+Rocket Pool,RPL,dApp,DeFi,LiquidStaking,GovernanceToken
+Frax Share,FXS,dApp,DeFi,Lending,GovernanceToken
+Curve DAO,CRV,dApp,DeFi,DEX,GovernanceToken
+Lido Staked Ether,STETH,dApp,DeFi,LiquidStaking,DerivativeToken
+Rocket Pool ETH,RETH,dApp,DeFi,LiquidStaking,DerivativeToken
+cETH,CETH,dApp,DeFi,Lending,DerivativeToken
+Frax Ether,FRXETH,dApp,DeFi,LiquidStaking,DerivativeToken
+Polkadot,DOT,CrossChainPlatform,Infrastructure,CrossChainPlatform,NativeCurrency
+Cosmos Hub,ATOM,CrossChainPlatform,Infrastructure,CrossChainPlatform,NativeCurrency
+LEO Token,LEO,cApp,CeFi,CEX,UtilityToken
+OKB,OKB,cApp,CeFi,CEX,UtilityToken
+WhiteBIT Coin,WBT,cApp,CeFi,CEX,UtilityToken
+Bitget Token,BGB,cApp,CeFi,CEX,UtilityToken
+Gate,GT,cApp,CeFi,CEX,UtilityToken
+Rollbit Coin,RLB,cApp,MediaEntertainment,Gambling,UtilityToken
+Tokenize Xchange,TKX,cApp,CeFi,CEX,UtilityToken
+KuCoin,KCS,cApp,CeFi,CEX,UtilityToken
+Huobi,HT,cApp,CeFi,CEX,UtilityToken
+NEXO,NEXO,cApp,CeFi,Lending,UtilityToken
+Tether,USDT,cApp,CeFi,Tokenization,Stablecoin
+USD Coin,USDC,cApp,CeFi,Tokenization,Stablecoin
+TrueUSD,TUSD,cApp,CeFi,Tokenization,Stablecoin
+Pax Dollar,USDP,cApp,CeFi,Tokenization,Stablecoin
+First Digital USD,FDUSD,cApp,CeFi,Tokenization,Stablecoin
+Wrapped Bitcoin,WBTC,cApp,CeFi,Tokenization,DerivativeToken
+Tether Gold,XAUT,cApp,CeFi,Tokenization,DerivativeToken
+PAX Gold,PAXG,cApp,CeFi,Tokenization,DerivativeToken
+Coinbase Wrapped StakedETH,CBETH,cApp,CeFi,LiquidStaking,DerivativeToken
+Binance USD,BUSD,cApp,CeFi,Tokenization,Stablecoin
+Filecoin,FIL,AppSpecificBlockchain,Infrastructure,DataStoragePlatforms,NativeCurrency
+Theta Network,THETA,AppSpecificBlockchain,MediaEntertainment,ContentCreation,NativeCurrency
+ImmutableX,IMX,AppSpecificBlockchain,Metaverse,Gaming,NativeCurrency
+THORChain,RUNE,AppSpecificBlockchain,DeFi,DEX,NativeCurrency
+Flow,FLOW,AppSpecificBlockchain,MediaEntertainment,ContentCreation,NativeCurrency
+Klaytn,KLAY,AppSpecificBlockchain,MediaEntertainment,ContentCreation,NativeCurrency
+Chiliz,CHZ,AppSpecificBlockchain,Metaverse,Sports,NativeCurrency
+dYdX,DYDX,AppSpecificBlockchain,DeFi,Derivative,NativeCurrency
